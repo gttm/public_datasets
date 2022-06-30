@@ -1,0 +1,6 @@
+version: 0.0.2
+
+68fcf935948e5ef245e3388382914220  train.csv.bz2
+c42fa158770a2db4de59f298480e3385  val.csv.bz2
+5b52a53750755a79bd467b1f4346ed40  train.tar.bz2
+a285a553e3de38c790eec8988ef4c2a9  val.tar.bz2
